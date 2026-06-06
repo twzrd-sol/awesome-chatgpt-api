@@ -506,6 +506,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
     Helpful for bypassing network restrictions or IP rate limits.
 
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz)
+
+    Trust + receipt layer MCP server for AI agents on Solana. Pre-dispatch trust gating, on-chain agent scoring, and signed V5 trust receipts via x402 micropayment (<$0.01 USDC, <1s settlement). 4 free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. Zero-install endpoint: `https://intel.twzrd.xyz/mcp`.
+
 ### Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
